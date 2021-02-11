@@ -1,2 +1,2 @@
 # Cherish_Push_Server
-typescript
+cherish push server with typescript
